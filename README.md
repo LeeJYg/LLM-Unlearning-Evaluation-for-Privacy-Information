@@ -54,10 +54,13 @@ Membership inference attacks aim to determine whether a specific data point was 
 - **Inexact Unlearning Needs More Careful Evaluations to Avoid a False Sense of Privacy**  
    - **Description:** This paper proposes per-example U-MIA, a stronger version of conventional MIA, to be utilized in unlearning evaluation.
    - [Paper Link](https://arxiv.org/abs/2403.01218)
-   
+- **Low-Cost High-Power Membership Inference Attacks**
+  - **Description:** This paper introduces Robust Membership Inference Attack (RMIA), a statistical test that improves membership inference by leveraging fine-grained likelihood ratio tests. By modeling the null hypothesis with population data and employing pairwise likelihood ratios, RMIA distinguishes member data points from non-members effectively
+  - [Paper Link](https://arxiv.org/abs/2312.03262)
+
 - **Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration**
-   - **Description**: This paper proposes SPV-MIA, a novel attack that uses self-prompting to generate a reference dataset from the target model and introduces a probabilistic variation metric based on memorization rather than overfitting.
-   - [Paper link](https://arxiv.org/abs/2311.06062)
+  - **Description:** This paper proposes SPV-MIA, a novel attack that uses self-prompting to generate a reference dataset from the target model and introduces a probabilistic variation metric based on memorization rather than overfitting.
+  - [Paper Link](https://arxiv.org/abs/2311.06062)
 
 ---
 
