@@ -62,6 +62,10 @@ Membership inference attacks aim to determine whether a specific data point was 
   - **Description:** This paper proposes SPV-MIA, a novel attack that uses self-prompting to generate a reference dataset from the target model and introduces a probabilistic variation metric based on memorization rather than overfitting.
   - [Paper Link](https://arxiv.org/abs/2311.06062)
 
+- **Order of Magnitude Speedups for LLM Membership Inference**
+   - **Description:** This paper introduces a membership inference attack leveraging an ensemble of lightweight quantile regression models. Unlike traditional shadow model approaches, which are computationally expensive, this method estimates training data membership by directly predicting quantiles of score functions.
+   - [Paper Link](https://arxiv.org/abs/2409.14513)
+
 ---
 
 ## Unlearning Techniques  
