@@ -55,6 +55,10 @@ Membership inference attacks aim to determine whether a specific data point was 
    - **Description:** This paper proposes per-example U-MIA, a stronger version of conventional MIA, to be utilized in unlearning evaluation.
    - [Paper Link](https://arxiv.org/abs/2403.01218)
 
+- **Order of Magnitude Speedups for LLM Membership Inference**
+   - **Description:** This paper introduces a membership inference attack leveraging an ensemble of lightweight quantile regression models. Unlike traditional shadow model approaches, which are computationally expensive, this method estimates training data membership by directly predicting quantiles of score functions.
+   - [Paper Link](https://arxiv.org/abs/2409.14513)
+
 ---
 
 ## Unlearning Techniques  
